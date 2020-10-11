@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+body {
+    background-color: darkblue;
+    color: white;
+
+}
+
+nav a {text-decoration: none;
+    background-color: black;
+    margin-bottom: 1.5rem;
+    display: block;
+color: white;}
+
+
+
